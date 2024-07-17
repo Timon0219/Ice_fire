@@ -7,6 +7,10 @@ This project is a web application built to track characters from the epic series
 
 The application is built using React.js for the frontend, Material-UI for styling and UI components, and Axios for making HTTP requests to the API.
 
+## Video
+
+https://www.loom.com/share/158465b912ed486f87b9cb4ef85436ad?sid=2510a94a-ccfc-4d64-9ddf-9c34181c1784
+
 ## Features
 
 - Displays a list of houses from the API.
